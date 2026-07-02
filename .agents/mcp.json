@@ -3,7 +3,7 @@
     "concierge_live_data": {
       "command": "python3",
       "args": [
-        "/home/alirezaee/Desktop/aiagent/berlin_trip_agent/mcp_server.py"
+        "/home/alirezaee/Desktop/aiagent/TripAgent/mcp_server.py"
       ],
       "env": {}
     }
